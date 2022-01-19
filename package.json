@@ -1,0 +1,23 @@
+{
+  "name": "js-algorithm",
+  "version": "1.0.0",
+  "description": "자바스크립트로 알고리즘 정복하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yennyStudy/js-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yennyStudy/js-algorithm/issues"
+  },
+  "homepage": "https://github.com/yennyStudy/js-algorithm#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
