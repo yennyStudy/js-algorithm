@@ -16,7 +16,6 @@
     "url": "https://github.com/yennyStudy/js-algorithm/issues"
   },
   "homepage": "https://github.com/yennyStudy/js-algorithm#readme",
-  "dependencies": {},
   "devDependencies": {
     "prettier": "^2.5.1"
   }
